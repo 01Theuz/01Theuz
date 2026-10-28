@@ -23,17 +23,19 @@ Gosto de aprender na prática, transformar ideias em projetos e explorar como de
 
 ## Tecnologias e ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,mysql,git,github,figma" alt="HTML, CSS, JavaScript, Python, C, SQL, Git, GitHub e Figma" />
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<p align="center">
-  <strong>Também uso:</strong> Draw.io
-</p>
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Drawio](https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Projetos
 
-- **Petcare** — projeto universitário desenvolvido em equipe.
 - **Fanpage Project** — projeto em JavaScript disponível no GitHub: [ver repositório](https://github.com/01Theuz/Fanpage_project).
 - **Portfólio pessoal** — este perfil é meu espaço para apresentar minha trajetória e meus projetos.
 
