@@ -1,13 +1,13 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:06B6D4&height=190&section=header&text=Matheus&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:06B6D4&height=190&section=header&text=Matheus+Andrade&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36"
     alt="Banner animado com o nome Matheus"
     width="100%"
   />
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=67E8F9&center=true&vCenter=true&width=620&lines=Desenvolvimento+Front-end;Modelagem+de+sistemas;Em+evolu%C3%A7%C3%A3o+para+An%C3%A1lise+de+Dados"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=67E8F9&center=true&vCenter=true&width=620&lines=Desenvolvedor+Front-end;Modelagem+de+sistemas;Em+evolu%C3%A7%C3%A3o+para+An%C3%A1lise+de+Dados"
       alt="Desenvolvimento Front-end, modelagem de sistemas e análise de dados"
     />
   </a>
